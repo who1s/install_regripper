@@ -34,5 +34,5 @@ source ~/.bashrc
 
 # Get rid the rest files
 cd
-rm -r /tmp/RegRipper2.8
+rm -rf /tmp/RegRipper2.8
 
